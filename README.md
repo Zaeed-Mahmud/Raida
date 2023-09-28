@@ -1,7 +1,7 @@
 # Raida
 A online bike rental system
 
-#Installation
+# Installation
 Install XAMPP 
 
 Open XAMPP Control panal and start [apache] and [mysql] .
