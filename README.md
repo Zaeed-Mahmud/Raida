@@ -30,3 +30,8 @@ OR follow gitbash commands
 13.clietn login details email = Zaeed.Mahmud.cse@ulab.edu.bd and Password=193
 
 14.admin login details email = admin and Password=admin
+
+# Screenshots
+
+Initial Page
+![Screenshot 2023-09-28 173224](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/2aff44bc-bbc8-4f83-a0f9-b077ce9a67af)
