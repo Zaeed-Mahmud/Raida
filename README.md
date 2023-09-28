@@ -31,7 +31,7 @@ OR follow gitbash commands
 
 14.admin login details email = admin and Password=admin
 
-# Screenshots
+# Screenshots (Client site)
 
 **Initial Page**
 ![Screenshot 2023-09-28 173224](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/2aff44bc-bbc8-4f83-a0f9-b077ce9a67af)
@@ -45,7 +45,7 @@ OR follow gitbash commands
 **Home page**
 ![Screenshot 2023-09-28 173307](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/3fcfa633-9780-4515-9f8b-59468f889362)
 
-**Bike bocking page**
+**Bocking page**
 ![Screenshot 2023-09-28 173317](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/722ca1d5-2eda-4b40-8cb5-40a30652885e)
 ![Screenshot 2023-09-28 173356](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/fc0ebc29-cd70-45fc-8a20-47176daba358)
 ![Screenshot 2023-09-28 173422](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/75fce928-8c4c-42b7-825d-313acf450bdc)
@@ -56,6 +56,22 @@ OR follow gitbash commands
 
 **About page**
 ![Screenshot 2023-09-28 173340](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/517fc772-4f49-4ee8-93ef-0e90d29196c4)
+
+# Screenshots (Admin site)
+
+**Admin Login**
+![Screenshot 2023-09-28 173457](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/075ee821-5a6b-4fdf-a8c0-0d840fc35750)
+
+**Admin dashboard**
+![Screenshot 2023-09-28 173525](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/cacd597f-f159-40ac-8d63-2a3f0c6fef26)
+
+**vehicle management**
+![Screenshot 2023-09-28 173534](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/bed0287d-3dee-4225-944f-f3d4e0ef970c)
+
+**Upload new vehicle**
+![Screenshot 2023-09-28 173637](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/b00c88f5-a7e2-40cd-9b14-6877eaba9bf7)
+
+
 
 
 
