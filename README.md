@@ -2,16 +2,12 @@
 A online bike rental system
 
 # Installation
-Install XAMPP 
+1.Install XAMPP 
 
-Open XAMPP Control panal and start [apache] and [mysql] .
+2.Open XAMPP Control panal and start [apache] and [mysql] .
 
-Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)
+Download project from github([https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system))
 OR follow gitbash commands
-
-i>cd C:\xampp\htdocs\
-
-ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
 
 extract files in C:\xampp\htdocs.
 
@@ -19,16 +15,17 @@ open link localhost/phpmyadmin
 
 click on new at side navbar.
 
-give a database name as (onlineshop) hit on create button.
+give a database name as (bikes) hit on create button.
+
+download the SQL file in directory or https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/blob/main/XAMPP%20database/bikes.sql
 
 after creating database name click on import.
 
-browse the file in directory[online-shopping-system-with-advanced-admin-page/database/onlineshop.sql].
-
 after importing successfully.
 
-open any browser and type http://localhost/online-shopping-system-with-advanced-admin-page-master.
+open any browser and type http://localhost/bikeRentalSystem/index.php
 
 first register and then login
 
-admin login details Email=admin@gmail.com or username = admin and Password=123456789.
+clietn login details email = Zaeed.Mahmud.cse@ulab.edu.bd and Password=193
+admin login details email = admin and Password=admin
