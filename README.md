@@ -53,7 +53,7 @@ OR follow gitbash commands
 ![Screenshot 2023-09-28 173439](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/8006392d-3102-4f34-8ba7-270549850349)
 
 **Home page**
-![Screenshot 2023-09-28 173307](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/3fcfa633-9780-4515-9f8b-59468f889362)
+![271270713-3fcfa633-9780-4515-9f8b-59468f889362](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/dceff9cf-836c-4914-8263-09328433abfc)
 
 **Bocking page**
 ![Screenshot 2023-09-28 173317](https://github.com/Zaeed-Mahmud/Raida-online-bike-rental-system/assets/146333823/722ca1d5-2eda-4b40-8cb5-40a30652885e)
