@@ -9,7 +9,7 @@
 
 
 # Raida
-A online bike rental system
+An online bike rental system
 
 # Installation
 1.Install XAMPP 
